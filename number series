@@ -1,0 +1,8 @@
+a=0
+while a <100 :
+    a += 1 
+    print (a)
+
+
+#input=print the number less then 100
+#output=1 2 3 . . . .100
