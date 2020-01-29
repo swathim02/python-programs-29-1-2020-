@@ -1,0 +1,21 @@
+def billing(dest):
+    rate=dest*10
+    print("cost of the destination is",rate)
+    
+a=int(input("enter the destination \n 1.tirupathi\n 2.avadi\n 3.t nagar"))
+if(a==1):
+    billing(10)
+elif(a==2):
+    billing(20)
+elif(a==3):
+    billing(30)
+else:
+    print("wrong destination")
+    
+    
+    
+    
+    
+    
+    #input=destinaton
+    #output=cost of destination
