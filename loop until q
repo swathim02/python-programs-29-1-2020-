@@ -1,0 +1,16 @@
+a=input("ernter:")
+i=1
+while (i==1):
+    if a !="q":
+        print ("loop")
+        else:
+            break
+            print("loop")
+        
+        
+        
+#input
+#enter=1
+#output=loop
+#loop
+#loop.
